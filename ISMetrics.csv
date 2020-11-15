@@ -1,0 +1,21 @@
+﻿Island,Shore,Site,Species, Individuals,DietOverlap,PopIndividualSpecialization
+Kauai,West,SaltPond,Acanthurus triostegus,5,0.32,0.52
+Maui,North,Waihee,Acanthurus triostegus,3,0.62,0.76
+Maui,South,SouthShoreViewpoint,Zebrasoma flavescens,16,0.63,0.73
+Maui,West,Olowalu,Acanthurus nigrofuscus,4,0.53,0.69
+Oahu,East,KahanaBay,Acanthurus triostegus,14,0.78,0.84
+Oahu,East,KailuaBay,Acanthurus triostegus,16,0.62,0.72
+Oahu,East,Laie,Acanthurus nigrofuscus,7,0.56,0.69
+Oahu,North,Chuns,Acanthurus nigrofuscus,4,0.53,0.7
+Oahu,North,Chuns,Acanthurus leucopareius,3,0.47,0.69
+Oahu,North,Haleiwa,Acanthurus leucopareius,2,0.21,0.6
+Oahu,North,Haleiwa,Acanthurus nigrofuscus,7,0.58,0.7
+Oahu,North,Haleiwa,Acanthurus triostegus,11,0.66,0.75
+Oahu,North,Mokuleia,Acanthurus nigrofuscus,8,0.45,0.6
+Oahu,South,AlaMoana,Acanthurus nigrofuscus,22,0.54,0.67
+Oahu,South,Kakaako,Acanthurus nigrofuscus,4,0.58,0.72
+Oahu,South,Kakaako,Acanthurus triostegus,4,0.77,0.85
+Oahu,South,MaunaluaBay,Acanthurus nigrofuscus,16,0.59,0.71
+Oahu,South,MaunaluaBay,Acanthurus triostegus,14,0.53,0.66
+Oahu,West,KahePoint ,Acanthurus triostegus,12,0.69,0.78
+Oahu,West,Makaha,Acanthurus triostegus,10,0.75,0.83
